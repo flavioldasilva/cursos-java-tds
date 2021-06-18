@@ -1,6 +1,6 @@
-### cursoTDS
+### Curso Java TDS
 
-Curso de Java efetuado na TDS através [Cleiton Oliveira](https://github.com/zherro) contendo: 
+Curso de Java efetuado na TDS Tecnologia através [Cleiton Oliveira](https://github.com/zherro) contendo: 
 
 #### INTRODUÇÃO AO ECLIPSE
 * Uso geral da ferramenta <br/>
