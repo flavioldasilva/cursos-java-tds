@@ -1,32 +1,32 @@
-# cursoTDS
+### cursoTDS
 
-Curso de Java efetuado na TDS contendo:
+Curso de Java efetuado na TDS através [Cleiton Oliveira](https://github.com/zherro) contendo: 
 
-<h2>INTRODUÇÃO AO ECLIPSE<h/2>
-Uso geral da ferramenta
+#### INTRODUÇÃO AO ECLIPSE
+* Uso geral da ferramenta <br/>
 
-INTRODUÇÃO AO GIT
-Uso geral da ferramenta
+#### INTRODUÇÃO AO GIT
+* Uso geral da ferramenta <br/>
 
-CONCEITOS BÁSICOS
-• Tipos Primitivos
-• Operadores aritméticos, compostos, relacionais e lógicos
-• Condições e Repetições
-• Arrays
-• Java Virtual Machine
+#### CONCEITOS BÁSICOS
+* Tipos Primitivos
+* Operadores aritméticos, compostos, relacionais e lógicos
+* Condições e Repetições
+* Arrays
+* Java Virtual Machine <br/>
 
-CLASSES ÚTEIS
-• Conversão Objetos-Tipos Primitivos
-• String, StringBuilder, StringBuffer
-• File IO
-• Formatação e Parsing
+#### CLASSES ÚTEIS
+* Conversão Objetos-Tipos Primitivos
+* String, StringBuilder, StringBuffer
+* File IO
+* Formatação e Parsing <br/>
 
-• CRIAÇÃO DE CLASSES
-• Classes
-• Herança e Polimorfismo
-• Classes Abstratas, Internas e Anônimas
-• Interfaces
-• Enums
+#### CRIAÇÃO DE CLASSES
+* Classes
+* Herança e Polimorfismo
+* Classes Abstratas, Internas e Anônimas
+* Interfaces
+* Enums <br/>
 
-TRATAMENTO DE ERROS
-• Exceptions
+#### TRATAMENTO DE ERROS
+* Exceptions
